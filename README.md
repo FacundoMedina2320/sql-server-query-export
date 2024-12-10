@@ -1,7 +1,7 @@
 
 # SQL Server Query Export Project
 
-![Project Screenshot](https://via.placeholder.com/600x300)
+![Project Screenshot]([https://via.placeholder.com/600x300](https://www.datanumen.com/blogs/wp-content/uploads/2024/01/mssql-to-csv-1.png))
 
 ## About the Project
 
