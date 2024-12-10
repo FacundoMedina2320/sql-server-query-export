@@ -1,7 +1,7 @@
 
 # SQL Server Query Export Project
 
-![Project Screenshot]([https://via.placeholder.com/600x300](https://www.datanumen.com/blogs/wp-content/uploads/2024/01/mssql-to-csv-1.png))
+<img src="https://media.licdn.com/dms/image/v2/C5612AQFsHHGugpQFNw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1540697982892?e=1739404800&v=beta&t=HsjxszpRT0QVGJc7dh9HLtHIQ0Qd40nM3L71P-S6IPk" alt="CSV to SQL" width="600" />
 
 ## About the Project
 
